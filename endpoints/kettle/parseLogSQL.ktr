@@ -863,7 +863,7 @@
            </partitioning>
     <connection>Hibernate</connection>
     <schema/>
-    <table>performance_monitoring_sql</table>
+    <table>PERFORMANCE_MONITORING_SQL</table>
     <commit>1000</commit>
     <truncate>N</truncate>
     <ignore_errors>N</ignore_errors>

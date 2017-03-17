@@ -1,6 +1,8 @@
 # Pentaho Performance Monitoring Plugin
 
-The plugin is an open source project that helps Pentaho BI Administrators visualize performance statistics.
+![Performance Monitoring screenshot](/performance_monitoring_screenshot.png)
+
+This plugin is an open source project that helps Pentaho BI Administrators visualize performance statistics.
 
 Examples include:
 

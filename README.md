@@ -20,7 +20,7 @@ To install run `$ git clone https://github.com/DeBortoliWines/pentaho-performanc
 *This plugin was developed on Linux and is untested on Windows and Mac*
 
 ### Support
-If you need support please feel free to create a issue here.
+If you need support please feel free to create an issue here.
 
 ### Credits and Contributions
 
